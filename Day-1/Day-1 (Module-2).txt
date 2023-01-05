@@ -1,0 +1,6 @@
+-Collection types
+	-list
+	-tuple
+	-set
+	-dict.
+-Collection types method

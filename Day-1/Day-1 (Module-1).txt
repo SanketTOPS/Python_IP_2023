@@ -1,0 +1,23 @@
+-what is python?
+-basic python programming
+	-var. declaration
+	-datatypes
+		-int
+		-float
+		-string
+		-bool
+		-complex
+	-conditional statements
+		-if
+		-if_else
+		-if_elif
+		-nested if
+	-looping structure
+		-while
+		-for
+	-control statements
+		-break
+		-continue
+		-pass
+	-string manipulation
+		-string's methods
