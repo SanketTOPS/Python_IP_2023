@@ -8,6 +8,7 @@ class student:
 
 #object
 st=student()
+
 print(st.stid)
 print(st.stnm)
 st.getdata()
